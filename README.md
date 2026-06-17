@@ -1,1 +1,2 @@
 # localminer
+new
